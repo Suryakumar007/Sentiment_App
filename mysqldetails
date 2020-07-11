@@ -1,0 +1,2 @@
+.\mysql.exe -uroot -p -- on terminal
+.\mysql -uroot -p --------on hyper
